@@ -1,1 +1,1 @@
-# dino-education-project
+# Dino-Education-Project
